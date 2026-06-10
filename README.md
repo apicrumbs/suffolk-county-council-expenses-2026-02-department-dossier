@@ -1,5 +1,5 @@
 # 🏛️ ApiCrumbs Archive: SUFFOLK-COUNTY-COUNCIL-EXPENSES-2026-02-DEPARTMENT-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--06--08-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/42_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--06--10-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/42_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 42 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 42 printed / 105 skipped (up-to-date).
